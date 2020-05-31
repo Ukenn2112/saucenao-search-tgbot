@@ -1,0 +1,49 @@
+{
+  "name": "Telegram Image Served by Web",
+  "description": "web形式下载telegram图片",
+  "keywords": [
+    "Telethon",
+    "free",
+    "plugin",
+    "Image",
+    "productivity",
+    "Telegram api"
+  ],
+  "repository": "https://github.com/Ukenn2112/saucenao-search-tgbot",
+  "success_url": "https://github.com/Ukenn2112/saucenao-search-tgbot",
+  "website": "https://github.com/Ukenn2112/saucenao-search-tgbot",
+  "env": {
+    "SAUCENAO_APIKEY": {
+      "description": "您可以通过创建免费帐户从saucenao.com添加SAUCENAO_APIKEY ，但这不是必需的。",
+      "value": ""
+    },
+    "TG_TOKEN": {
+      "description": "机器人密钥",
+      "value": ""
+    },
+    "HOST": {
+      "description": "主机地址",
+      "value": "127.0.0.1"
+    },
+    "WEBHOOK_URL": {
+      "description": "your-app-name.herokuapp.com",
+      "value": "your-app-name.herokuapp.com"
+    },
+    "DEBUG": {
+      "description": "saucenao-tg:*",
+      "value": "saucenao-tg:*"
+    },
+    "DATABASE_URL": {
+      "description": "数据库链接",
+      "value": ""
+    },
+    "MINIUM_SIMILARITY": {
+      "description": "最小相似度",
+      "value": "50"
+    },
+    "MAX_RESULT_COUNT": {
+      "description": "最大結果數",
+      "value": "3"
+    },
+  }
+}
