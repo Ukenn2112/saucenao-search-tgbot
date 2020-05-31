@@ -8,6 +8,8 @@ Add friend: [@SauceNAO_Search_bot](https://t.me/SauceNAO_Search_bot)
 
 ### Heroku
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 > Make sure you have [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) installed beforehand.
 
 1. Create a app on [Heroku](https://herokuapp.com/)
