@@ -44,6 +44,6 @@
     "MAX_RESULT_COUNT": {
       "description": "最大結果數",
       "value": "3"
-    },
+    }
   }
 }
